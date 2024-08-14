@@ -47,6 +47,7 @@ Update your workflow to make it post a comment on new pull requests. It will do 
 1. Type your commit message and commit your changes directly to your branch.
 1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace the contents of this README file with instructions for the next step.
 
+1. Hi!!!
 <footer>
 
 ---
